@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wetter App</string>
+    <string name="error_location_not_found">Standort nicht gefunden</string>
+    <string name="error_city_not_found">Stadt nicht gefunden</string>
+    <string name="error_location_permission">Standortberechtigung erforderlich</string>
+    <string name="error_generic">Ein Fehler ist aufgetreten</string>
+    <string name="wind">Wind</string>
+    <string name="rain">Regen</string>
+    <string name="humidity">Luftfeuchtigkeit</string>
+    <string name="go_back">Zurück</string>
+    <string name="search_city">Stadt suchen...</string>
+    <string name="tomorrow">Morgen</string>
+    <string name="next_seven_days">Nächste 7 Tage</string>
+    <string name="today">Heute</string>
+    <string name="no_data_tomorrow">Keine Daten für morgen verfügbar</string>
+    <string name="permit">Erlauben Sie</string>">
+    <string name="do_not_permit">Erlauben Sie nicht</string>">
+    <string name="changing_language">Sprache ändern...</string>">
+    <string name="notification_title">Wetterbenachrichtigung</string>">
+    <string name="notification_text">Überprüfen Sie Ihr aktuelles Wetter!</string>
+</resources>

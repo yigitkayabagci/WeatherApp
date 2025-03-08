@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Météo</string>
+    <string name="error_location_not_found">Localisation non trouvée</string>
+    <string name="error_city_not_found">Ville non trouvée</string>
+    <string name="error_location_permission">Autorisation de localisation requise</string>
+    <string name="error_generic">Une erreur est survenue</string>
+    <string name="wind">Vent</string>
+    <string name="rain">Pluie</string>
+    <string name="humidity">Humidité</string>
+    <string name="go_back">Retour</string>
+    <string name="search_city">Rechercher une ville...</string>
+    <string name="tomorrow">Demain</string>
+    <string name="next_seven_days">7 prochains jours</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="no_data_tomorrow">Aucune donnée disponible pour demain</string>
+    <string name="permit">Autoriser</string>">
+    <string name="do_not_permit">Ne pas autoriser</string>">
+    <string name="changing_language">Changement de langue...</string>">
+    <string name="notification_title">Notification météo</string>">
+    <string name="notification_text">Vérifiez votre météo actuelle !</string>
+</resources>

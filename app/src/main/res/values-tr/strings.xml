@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="error_location_not_found">Konum bulunamadı</string>
+    <string name="error_city_not_found">Şehir bulunamadı</string>
+    <string name="error_location_permission">Konum izni gerekli</string>
+    <string name="error_generic">Bir hata oluştu</string>
+    <string name="wind">Rüzgar</string>
+    <string name="rain">Yağmur</string>
+    <string name="humidity">Nem</string>
+    <string name="go_back">Geri dön</string>
+    <string name="search_city">Şehir ara…</string>
+    <string name="tomorrow">Yarın</string>
+    <string name="next_seven_days">Sonraki 7 Gün</string>
+    <string name="today">Bugün</string>
+    <string name="no_data_tomorrow">Yarın bilgisi bulunamadı</string>
+    <string name="permit">İzin ver</string>">
+    <string name="do_not_permit">İzin verme</string>">
+    <string name="changing_language">Dil değiştiriliyor…</string>">
+    <string name="notification_title">Hava Durumu Bildirimi</string>">
+    <string name="notification_text">Mevcut hava durumunu kontrol et!</string>
+</resources>
